@@ -1,0 +1,29 @@
+{
+  "name": "tp-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Williamvlhg/API-MongoDB-Kane.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Williamvlhg/API-MongoDB-Kane/issues"
+  },
+  "homepage": "https://github.com/Williamvlhg/API-MongoDB-Kane#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "mongodb": "^6.15.0",
+    "nodemon": "^3.1.9"
+  }
+
+}
